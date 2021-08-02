@@ -1,0 +1,5 @@
+C:\Users\seany\source\repos\BreakTimer\BreakTimer\bin\Release\netcoreapp3.1\publish\BreakTimer.exe
+C:\Users\seany\source\repos\BreakTimer\BreakTimer\bin\Release\netcoreapp3.1\publish\BreakTimer.dll
+C:\Users\seany\source\repos\BreakTimer\BreakTimer\bin\Release\netcoreapp3.1\publish\BreakTimer.deps.json
+C:\Users\seany\source\repos\BreakTimer\BreakTimer\bin\Release\netcoreapp3.1\publish\BreakTimer.runtimeconfig.json
+C:\Users\seany\source\repos\BreakTimer\BreakTimer\bin\Release\netcoreapp3.1\publish\BreakTimer.pdb
